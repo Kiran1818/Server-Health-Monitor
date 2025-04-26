@@ -1,1 +1,13 @@
-!
+Tools and Technologies Used:
+
+Virtual Machine ---- Oracle Virtual box ---- Run a virtual Linux Machine 
+
+Linux Requirements: RAM - 2048MB(minimum), Processor - 1(Minimum), Disk Size - 20Gigabytes(Minimum), Ubuntu Server ISO(can download it from Ubuntu.com - version 24.04.2 LTS)
+
+Python3 ---- For monitoring Scripts
+
+Bash ---- For Automation and scheduling
+
+crontab ---- to run desired scripts regularly
+
+psutil --- python package ---- to gather system performance data
